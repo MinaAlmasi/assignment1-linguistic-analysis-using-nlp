@@ -11,7 +11,7 @@ The repository contains code for extracting linguistic features of text files. C
 The analysis is run on the [USEcorpus](https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2457) which is a collection of essays (1489 in total) written by Swedish university students. If you wish to read more about the dataset, please look at the ```readme.md``` in the ```in``` folder.
 
 ## Reproducibility 
-To reproduce the results, please follow the instructions in the [*Pipeline*](https://github.com/AU-CDS/assignment-1---linguistic-analysis-using-nlp-MinaAlmasi#pipeline) section. 
+To reproduce the results, please follow the instructions in the [*Pipeline*](https://github.com/MinaAlmasi/assignment1-linguistic-analysis-using-nlp#pipeline) section. 
 
 ## Project Structure 
 The repository is structured as such:
@@ -56,7 +56,7 @@ The pipeline has been tested on Ubuntu v22.10, Python v3.10.7 ([UCloud](https://
 Python's [venv](https://docs.python.org/3/library/venv.html) needs to be installed for the pipeline to work.
 
 ### Setup
-Before running the script, please run setup.sh in the terminal:
+Before running the script, please run ```setup.sh``` in the terminal:
 
 ```
 bash setup.sh
@@ -73,6 +73,7 @@ This will save 14 CSV files in the [out](https://github.com/MinaAlmasi/assignmen
 
 ## Author 
 This repository was created by Mina Almasi:
+
 - github user: @MinaAlmasi
 - student no: 202005465, AUID: au675000
 - mail: mina.almasi@post.au.dk
