@@ -1,4 +1,4 @@
-# Extracting Linguistic Features Using spaCy
+# Extracting Linguistic Features using spaCy
 Repository link: https://github.com/MinaAlmasi/assignment1-linguistic-analysis-using-nlp
 
 This repository forms *assignment 1* by Mina Almasi (202005465) in the subject *Language Analytics*, *Cultural Data Science*, F2023. The assignment description can be found [here](https://github.com/MinaAlmasi/assignment1-linguistic-analysis-using-nlp/blob/main/assignment-desc.md). 
